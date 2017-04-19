@@ -12,3 +12,7 @@ go run main.go
 Visit [releases](https://github.com/snagles/stretch-reminder/releases/) , download your release and run:
 
 ```./stretch-reminder```
+
+
+## About
+Project uses [notificator](https://github.com/0xAX/notificator) to achieve cross platform hooks to the respective notification systems.

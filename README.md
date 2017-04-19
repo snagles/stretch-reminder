@@ -9,5 +9,6 @@ go run main.go
 ```
 
 ### Binary
-Visit releases, download your release
-`./stretch-reminder`
+Visit [releases](https://github.com/snagles/stretch-reminder/releases/) , download your release and run:
+
+```./stretch-reminder```
